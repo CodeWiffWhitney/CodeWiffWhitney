@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity!
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Just about anything. :)
-- 📫 How to reach me ...
+- 📫 You can contact me through Twitter @wiffwhitney
 
 <!---
 CodeWiffWhitney/CodeWiffWhitney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
